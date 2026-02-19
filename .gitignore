@@ -1,3 +1,6 @@
+# 不纳入版本控制
+notion_export/
+
 # 敏感信息
 .env
 .env.local
